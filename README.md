@@ -11,7 +11,8 @@ This repository contains all the Cypress-based practice programs and tasks compl
 - **Iframe Handling**: Demonstrates switching to and interacting with iframe elements.  
 - **Mouse Handling**: Programs for mouse hover, drag-and-drop, and right-click actions.  
 - **Keyboard Handling**: Simulations of keypress actions for form filling and navigation.  
-- **Screenshot Capture**: Automated scripts for taking screenshots during tests.  
+- **Screenshot Capture**: Automated scripts for taking screenshots during tests.
+- **etc....**
 
 ---
 
